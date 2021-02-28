@@ -19,13 +19,13 @@ Done! That's it, you are amazing!
 
 ## Workshop Practice
 
-1. Setting Up Cassandra
-2. Monitoring Cassandra
-3. Working with Data
-4. Scaling Up and Down
-5. Stargate!
-6. Running Repairs
-7. Backups
+1. [Setting Up Cassandra](https://github.com/datastaxdevs/k8ssandra-workshop/wiki/Setting-Up-Cassandra)
+2. [Monitoring Cassandra](https://github.com/datastaxdevs/k8ssandra-workshop/wiki/Monitoring-Cassandra)
+3. [Working with Data](https://github.com/datastaxdevs/k8ssandra-workshop/wiki/Working-with-Data)
+4. [Scaling Up and Down](https://github.com/datastaxdevs/k8ssandra-workshop/wiki/Scaling-Up-and-Down)
+5. [Stargate!](https://github.com/datastaxdevs/k8ssandra-workshop/wiki/Stargate!)
+6. [Running Repairs](https://github.com/datastaxdevs/k8ssandra-workshop/wiki/Running-Repairs)
+7. [Backups](https://github.com/datastaxdevs/k8ssandra-workshop/wiki/Backups)
 
 ## Resources and next steps
 
