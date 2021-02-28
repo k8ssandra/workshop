@@ -19,12 +19,13 @@ Done! That's it, you are amazing!
 
 ## Workshop Practice
 
-1. Setting Up and Monitoring Cassandra 
-2. Working with Data
-3. Scaling Up and Down
-4. Stargate!
-5. Running Repairs
-6. Backups
+1. Setting Up Cassandra
+2. Monitoring Cassandra
+3. Working with Data
+4. Scaling Up and Down
+5. Stargate!
+6. Running Repairs
+7. Backups
 
 ## Resources and next steps
 
