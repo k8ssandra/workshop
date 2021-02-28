@@ -29,8 +29,8 @@ Done! That's it, you are amazing!
 
 ## Resources and next steps
 
-* For further learning from our team, please checkout https://datastax.com/dev where we keep many resources and hands on labs to help you improve your skill set.
-* If you are looking to get certified on Cassandra, please visit https://datastax.com/dev/certifications.
-* To get involved in the discussion around this project and others, please check out https://community.datastax.com.
-* To learn more about K8ssandra, please checkout our website at k8ssandra.io/preview and our project github at github.com/k8ssandra/k8ssandra.
-* Liked the workshop? Subscribe to the next one at datastax.com/workshops! 
+* For further learning from our team, please checkout [datastax.com/dev](https://datastax.com/dev) where we keep many resources and hands on labs to help you improve your skill set.
+* If you are looking to get certified on Cassandra, please visit [datastax.com/dev/certifications](https://datastax.com/dev/certifications).
+* To get involved in the discussion around this project and others, please check out [community.datastax.com](https://community.datastax.com).
+* To learn more about K8ssandra, please checkout our website at [k8ssandra.io](https://k8ssandra.io) and our project github at [github.com](https://github.com/k8ssandra/k8ssandra).
+* Liked the workshop? Subscribe to the next one at [datastax.com/workshops](https://datastax.com/workshops)! 
