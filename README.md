@@ -6,7 +6,7 @@ How to do the workshop and learn the new skills? Very easy, just three steps!
 
 1. Watch [the workshop](https://youtu.be/riKDcNh7V8k) on youtube
 2. Do the [practice steps](https://github.com/datastaxdevs/k8ssandra-workshop/wiki)
-3. Ask you questions ((chat)[https://bit.ly/cassandra-workshop] or (forum)[https://community.datastax.com])
+3. Ask you questions ([chat](https://bit.ly/cassandra-workshop) or [forum](https://community.datastax.com))
 
 Done! That's it, you are amazing! 
 
