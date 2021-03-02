@@ -28,3 +28,17 @@ stargate:
   heapMB: 256
   cpuReqMillicores: 200
   cpuLimMillicores: 1000
+ingress:
+  traefik:
+    enabled: false
+    monitoring: 
+      grafana:
+        enabled: true
+        entrypoints: 
+          - web
+        host: grafana.k8ssandra.cluster.local
+      prometheus:
+        enabled: true
+        entrypoints: 
+          - web
+        host: prometheus.k8ssandra.cluster.local
