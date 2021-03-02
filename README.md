@@ -1,4 +1,4 @@
-# Putting Apache Cassandra on Automatic with Kubernetes™
+# K8ssandra Workshop
 
 In this repository, you'll find everything for the Cassandra Kubernetes Workshop delivered by DataStax Developers!
 
