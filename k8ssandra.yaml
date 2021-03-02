@@ -1,0 +1,13 @@
+name: k8ssandra
+clusterName: k8ssandra
+size: 1
+ingress:
+  traefik:
+    enabled: true
+    repair:
+      host: repair.<YOURADDRESS>
+    monitoring:
+      grafana:
+        host: grafana.<YOURADDRESS>
+      prometheus:
+        host: prometheus.<YOURADDRESS>
