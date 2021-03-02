@@ -1,13 +1,30 @@
-name: k8ssandra
-clusterName: k8ssandra
-size: 1
-ingress:
-  traefik:
-    enabled: true
-    repair:
-      host: repair.<YOURADDRESS>
-    monitoring:
-      grafana:
-        host: grafana.<YOURADDRESS>
-      prometheus:
-        host: prometheus.<YOURADDRESS>
+cassandra:
+  version: "3.11.10"
+  cassandraLibDirVolume:
+    storageClass: standard
+    size: 5Gi
+  heap:
+   size: 1G
+   newGenSize: 1G
+  resources:
+    requests:
+      cpu: 1000m
+      memory: 2Gi
+    limits:
+      cpu: 1000m
+      memory: 2Gi
+  datacenters:
+  - name: dc1
+    size: 1
+    racks:
+    - name: default
+kube-prometheus-stack:
+  grafana:
+  adminUser: admin
+  adminPassword: admin
+stargate:
+  enabled: true
+  replicas: 1
+  heapMB: 256
+  cpuReqMillicores: 200
+  cpuLimMillicores: 1000
