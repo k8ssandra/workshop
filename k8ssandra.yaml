@@ -18,27 +18,28 @@ cassandra:
     size: 1
     racks:
     - name: default
-kube-prometheus-stack:
-  grafana:
-  adminUser: admin
-  adminPassword: admin
 stargate:
   enabled: true
   replicas: 1
   heapMB: 256
   cpuReqMillicores: 200
   cpuLimMillicores: 1000
-ingress:
-  traefik:
-    enabled: true
-    monitoring: 
-      grafana:
-        enabled: true
-        entrypoints: 
-          - web
-        host: grafana.k8ssandra.cluster.local
-      prometheus:
-        enabled: true
-        entrypoints: 
-          - web
-        host: prometheus.k8ssandra.cluster.local
+kube-prometheus-stack:
+  prometheus:
+    prometheusSpec:
+      externalUrl: http://wkse993155.aleks-k8s-test.datastaxtraining.com:8080/prometheus
+      routePrefix: /prometheus
+    ingress:
+      enabled: true
+      paths:
+        - /prometheus
+  grafana:
+    adminPassword: admin
+    ingress:
+      enabled: true
+      path: /grafana
+    plugins:
+      - grafana-polystat-panel
+    grafana.ini:
+      server:
+        root_url: http://wkse993155.aleks-k8s-test.datastaxtraining.com:8080/grafana
