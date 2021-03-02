@@ -30,7 +30,7 @@ stargate:
   cpuLimMillicores: 1000
 ingress:
   traefik:
-    enabled: false
+    enabled: true
     monitoring: 
       grafana:
         enabled: true
