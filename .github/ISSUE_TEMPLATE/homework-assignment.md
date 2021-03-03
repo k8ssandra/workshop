@@ -1,14 +1,16 @@
 ---
 name: Homework Assignment
 about: Use this template to submit the homework
-title: "[HW] YOUR-NAME"
+title: "[HW] <NAME>"
 labels: homework
 assignees: HadesArchitect
 
 ---
 
-*Name:*
-*Linkedin Profile:*
+**Name:** <NAME>
+**Linkedin Profile:** <LINK>
 
 Attach the homework screenshots below:
 -----------------------------------------
+
+<SCREENSHOTS>
