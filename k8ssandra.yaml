@@ -24,6 +24,8 @@ stargate:
   heapMB: 256
   cpuReqMillicores: 200
   cpuLimMillicores: 1000
+  ingress:
+    enabled: true
 reaper:
   autoschedule: false
   enabled: true
