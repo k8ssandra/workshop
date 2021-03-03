@@ -8,11 +8,11 @@ cassandra:
    newGenSize: 1G
   resources:
     requests:
-      cpu: 500m
-      memory: 1Gi
+      cpu: 1000m
+      memory: 2Gi
     limits:
-      cpu: 500m
-      memory: 1Gi
+      cpu: 1000m
+      memory: 2Gi
   datacenters:
   - name: dc1
     size: 1
