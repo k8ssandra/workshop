@@ -24,14 +24,15 @@ stargate:
   heapMB: 256
   cpuReqMillicores: 200
   cpuLimMillicores: 1000
-ingress:
-  traefik:
+reaper:
+  autoschedule: false
+  enabled: true
+  ingress:
     enabled: true
-    repair: 
-      enabled: true
-      entrypoints: 
-        - web
-      host: repair.wkse993155.aleks-k8s-test.datastaxtraining.com
+    host: repair.wkse993155.aleks-k8s-test.datastaxtraining.com
+    method: traefik
+    traefik:
+      entrypoint: web
 kube-prometheus-stack:
   prometheus:
     prometheusSpec:
