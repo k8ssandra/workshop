@@ -29,14 +29,14 @@ reaper:
   enabled: true
   ingress:
     enabled: true
-    host: repair.wkse993155.aleks-k8s-test.datastaxtraining.com
+    host: repair.<YOURADDRESS>
     method: traefik
     traefik:
       entrypoint: web
 kube-prometheus-stack:
   prometheus:
     prometheusSpec:
-      externalUrl: http://wkse993155.aleks-k8s-test.datastaxtraining.com:8080/prometheus
+      externalUrl: http://<YOURADDRESS>:8080/prometheus
       routePrefix: /prometheus
     ingress:
       enabled: true
@@ -51,4 +51,4 @@ kube-prometheus-stack:
       - grafana-polystat-panel
     grafana.ini:
       server:
-        root_url: http://wkse993155.aleks-k8s-test.datastaxtraining.com:8080/grafana
+        root_url: http://<YOURADDRESS>:8080/grafana
