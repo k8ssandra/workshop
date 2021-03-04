@@ -12,7 +12,7 @@ Done! That's it, you are amazing!
 
 ## Table of content
 
-* [Workshop on YouTube](https://youtu.be/riKDcNh7V8k)
+* [Workshop on YouTube](https://www.youtube.com/watch?v=GddqfK8JubA)
 * [Presentation](https://github.com/datastaxdevs/k8ssandra-workshop/raw/main/K8ssandra%20Workshop%20Feb%202021.pdf)
 * [Discord chat](https://bit.ly/cassandra-workshop)
 * [Q&A: community.datastax.com](https://community.datastax.com)
