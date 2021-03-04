@@ -19,13 +19,13 @@ Done! That's it, you are amazing!
 
 ## Workshop Practice
 
-1. [Setting Up Cassandra](https://github.com/datastaxdevs/k8ssandra-workshop/wiki/Setting-Up-Cassandra)
-2. [Monitoring Cassandra](https://github.com/datastaxdevs/k8ssandra-workshop/wiki/Monitoring-Cassandra)
-3. [Working with Data](https://github.com/datastaxdevs/k8ssandra-workshop/wiki/Working-with-Data)
-4. [Scaling Up and Down](https://github.com/datastaxdevs/k8ssandra-workshop/wiki/Scaling-Up-and-Down)
-5. [Stargate!](https://github.com/datastaxdevs/k8ssandra-workshop/wiki/Stargate!)
-6. [Running Repairs](https://github.com/datastaxdevs/k8ssandra-workshop/wiki/Running-Repairs)
-7. [Backups](https://github.com/datastaxdevs/k8ssandra-workshop/wiki/Backups)
+Intructions has been moved to the wiki to ease the progression.
+
+<p align="center">
+<a href="../../wiki">
+ <img src="https://dabuttonfactory.com/button.png?t=Open+labs+in+wiki&f=Roboto-Bold&ts=26&tc=fff&hp=45&vp=20&c=11&bgt=unicolored&bgc=15d798" />
+</a>
+</p>
 
 ## Resources and next steps
 
