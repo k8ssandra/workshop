@@ -4,7 +4,7 @@ In this repository, you'll find everything for the Cassandra Kubernetes Workshop
 
 How to do the workshop and learn the new skills? Very easy, just three steps! 
 
-1. Watch [the workshop](https://youtu.be/riKDcNh7V8k) on youtube
+1. Watch [the workshop](https://youtu.be/GddqfK8JubA) on youtube
 2. Do the [practice steps](https://github.com/datastaxdevs/k8ssandra-workshop/wiki)
 3. Ask you questions ([chat](https://bit.ly/cassandra-workshop) or [forum](https://community.datastax.com))
 
@@ -12,7 +12,7 @@ Done! That's it, you are amazing!
 
 ## Table of content
 
-* [Workshop on YouTube](https://www.youtube.com/watch?v=GddqfK8JubA)
+* [Workshop on YouTube](https://youtu.be/GddqfK8JubA)
 * [Presentation](https://github.com/datastaxdevs/k8ssandra-workshop/raw/main/K8ssandra%20Workshop%20Feb%202021.pdf)
 * [Discord chat](https://bit.ly/cassandra-workshop)
 * [Q&A: community.datastax.com](https://community.datastax.com)
