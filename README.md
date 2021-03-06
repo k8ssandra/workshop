@@ -19,7 +19,7 @@ Done! That's it, you are amazing!
 
 ## Workshop Practice
 
-Intructions has been moved to the wiki to ease the progression.
+Instructions has been moved to the wiki to ease the progression.
 
 <p align="left">
 <a href="https://github.com/datastaxdevs/k8ssandra-workshop/wiki">
