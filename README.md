@@ -21,8 +21,8 @@ Done! That's it, you are amazing!
 
 Intructions has been moved to the wiki to ease the progression.
 
-<p align="center">
-<a href="../../wiki">
+<p align="left">
+<a href="https://github.com/datastaxdevs/k8ssandra-workshop/wiki">
  <img src="https://dabuttonfactory.com/button.png?t=Open+labs+in+wiki&f=Roboto-Bold&ts=26&tc=fff&hp=45&vp=20&c=11&bgt=unicolored&bgc=15d798" />
 </a>
 </p>
