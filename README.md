@@ -1,5 +1,7 @@
 # K8ssandra Workshop
 
+# ¡WORK IN PROGRESS!
+
 In this repository, you'll find everything for the Cassandra Kubernetes Workshop delivered by DataStax Developers!
 
 How to do the workshop and learn the new skills? Very easy, just three steps! 
