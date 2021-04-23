@@ -7,7 +7,7 @@ In this repository, you'll find everything for the Cassandra Kubernetes Workshop
 How to do the workshop and learn the new skills? Very easy, just three steps! 
 
 1. Watch [the workshop](https://youtu.be/GddqfK8JubA) on youtube
-2. Do the [practice steps](https://github.com/datastaxdevs/k8ssandra-workshop/wiki)
+2. Do the [practice steps](https://github.com/k8ssandra/workshop/wiki)
 3. Ask you questions ([chat](https://bit.ly/cassandra-workshop) or [forum](https://community.datastax.com))
 
 Done! That's it, you are amazing! 
@@ -24,7 +24,7 @@ Done! That's it, you are amazing!
 Instructions has been moved to the wiki to ease the progression.
 
 <p align="left">
-<a href="https://github.com/datastaxdevs/k8ssandra-workshop/wiki">
+<a href="https://github.com/k8ssandra/workshop/wiki">
  <img src="https://dabuttonfactory.com/button.png?t=Open+labs+in+wiki&f=Roboto-Bold&ts=26&tc=fff&hp=45&vp=20&c=11&bgt=unicolored&bgc=15d798" />
 </a>
 </p>
