@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
       - name: petclinic-backend
-        image: "datastaxdevs/petclinic-backend"
+        image: "datastaxdevs/petclinic-backend:k8ssandra"
         #command: ["tail"]
         #args: ["-f", "/dev/null"]
         env:
