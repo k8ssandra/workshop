@@ -37,4 +37,4 @@ ports:
     nodePort: 30082
 
 service:
-  type: NodePort
+  type: LoadBalancer
