@@ -1,5 +1,5 @@
 cassandra:
-  version: "3.11.10"
+  version: "4.0.0"
   cassandraLibDirVolume:
     storageClass: standard
     size: 5Gi
